@@ -1,2 +1,2 @@
 # fish_counting
-Fish Counting method using YOLOv11 with segmentation method applied (Edge-based, SAM (Segment Anything Model), U-Net)
+Fish Counting Method using Ensemble Deep Learning with Edge-based, Segment Anything Model (SAM) and U-Net.
